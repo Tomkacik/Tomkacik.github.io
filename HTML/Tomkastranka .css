@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet;
+}
+img {
+    font-size: 50;
+}
+h1 {
+    color: chartreuse;
+    margin-left: 20px;
+}
+
+/* Zapis selectoru pre viecero HTML tagov */
+h2, h3 {
+    color:red
+}
+
+/* Zapis selectoru podla IDcka */
+#myId {
+    color:orange
+}
+
+.myClass {
+    color:green
+}
